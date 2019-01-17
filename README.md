@@ -1,2 +1,2 @@
-# CSD-3554_1_week-02
+# CSD-3354_1_week-02
 practice using github
